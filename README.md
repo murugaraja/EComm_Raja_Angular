@@ -11,11 +11,9 @@ Currently, in some parts of the site the UX expierence is not that great. Furthe
 
 ## Courtesy
 The above project was developed after learning the concepts from Udemy course by Mosh Hamedani.Here is the link to the course if anyone is intrested to know more about 
-http://programmingwithmosh.com/courses/complete-angular-master-class/
-
 
 ## Live Demo
-https://eshop-angular.firebaseapp.com/
+https://murugatestraja.herokuapp.com/
 
 ## Development server
 
